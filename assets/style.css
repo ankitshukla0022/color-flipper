@@ -68,3 +68,10 @@ header{
 input:focus {
   border: none;
   }
+  #nameBtn{
+   background-color: #fff;
+   border: none;
+   padding: 10px;
+   color: #000;
+   font-size:20px;
+  }
